@@ -1,2 +1,2 @@
 # AVECHECKER
-A simple light weigth checker for you
+A simple light-weight checker for you
